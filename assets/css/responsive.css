@@ -933,7 +933,7 @@
     width: 100%;
 }
 .header-style-two .logo img {
-    max-height: 50px;
+    max-height: 65px;
 }
 .slider-content-two .title {
     font-size: 60px;
@@ -1157,7 +1157,12 @@
 .scroll-top {
     right: 15px;
 }
-
+.work-item-container-odd{
+    flex-direction: column-reverse;
+}
+.work-item-container-even{
+    flex-direction: column-reverse;
+}
 
 }
 
