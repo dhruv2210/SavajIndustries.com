@@ -2125,6 +2125,9 @@ body.search-visible {
 .services-content-two .title a:hover {
     color: var(--tg-white);
 }
+.services-item-two:hover li {
+    color: var(--tg-white);
+}
 .services-content-two .link-btn {
     display: inline-block;
     color: #848484;
